@@ -1,0 +1,1 @@
+# ChineseNom-character-regconition-and-translation-with-YOLO11
